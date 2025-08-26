@@ -29,3 +29,18 @@ Multimedia. Mi comida favorita es el Sushi.</p>
 <p><b>Ubicación:</b> Bogotá,Colombia</p>
 
 <p><b>Rol:</b> Me gustaria asumir roles como Narrative Designer, UI/UX Designer, 2D Artist.</p>
+
+<h1>Ximena Prieto</h1>
+
+<img src="Ximena Prieto/FOTO XIMENA PRIETO.jpg" width="200"/>
+
+<p>Perfil:
+Hola a todos, me llamo Ximena, trabajo en una empresa de tecnologia e innovación y estudio Ingenieria Multimedia, mi comida favorita es la pizza</p>
+
+<img src="Ximena Prieto/COMIDA FAVORITA PIZZA.jpg" width="200"/>
+
+<p><b>Ubicación:</b> Bogotá,Colombia</p>
+
+<p><b>Rol:</b> Me gustaria asumir roles como Diseñador o Artista</p>
+
+
