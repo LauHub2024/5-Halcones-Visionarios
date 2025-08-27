@@ -44,3 +44,18 @@ Hola a todos, me llamo Ximena, trabajo en una empresa de tecnologia e innovació
 <p><b>Rol:</b> Me gustaria asumir roles como Diseñador o Artista</p>
 
 
+<h1>Juan Rodríguez</h1>
+
+<img src="Juan Rodriguez/fotoJuan.jpg" width="200"/>
+
+<p> 
+  <b>Perfil:</b> 
+    Mucho gusto, me llamo Juan Pablo, trabajo como Full Stack en el banco de bogotá y estudio Ingeneiria Multimedia enfocandome en el desarrollo de videojuegos.
+    <br>Mi rol a contribuir es bastante generalista pero me centro más como enviroment artist en arte stylizado y programador.
+    <br>
+      <b>Ubicación:</b> 
+      Bogotá, colombia.
+    <br>Mi plato favorito es la hazaña.
+</p>
+
+<img src="Juan Rodriguez/comidaFav.jpg" width="200"/> 
