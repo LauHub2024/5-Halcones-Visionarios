@@ -5,7 +5,7 @@
 <p>Perfil:
 Saludos, soy diego, estudio ingenieria multimedia, tengo un tecnologo en videojuegos del sena. por ahora solo estoy estudiando aunque haga mods para videojuegos por hobbye, realmente no tengo experiencia laborar en el entorno. mi comida favorita es el guacamole.</p>
 
-<img src="Diego/Comida Fav-Guacamole.jpg" width="200"/>
+<img src="Diego-Tenjo/Diego/Comida Fav-Guacamole.jpg" width="200"/>
 
 <p><b>Ubicación:</b> Bogotá,Colombia</p>
 
