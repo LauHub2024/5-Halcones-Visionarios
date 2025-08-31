@@ -43,9 +43,6 @@ Hola a todos, me llamo Ximena, trabajo en una empresa de tecnologia e innovació
 
 <p><b>Rol:</b> Me gustaria asumir roles como Diseñador o Artista</p>
 
-< Ximena-Prieto
-
-
 
 <h1>Juan Rodríguez</h1>
 
