@@ -43,6 +43,10 @@ Hola a todos, me llamo Ximena, trabajo en una empresa de tecnologia e innovació
 
 <p><b>Rol:</b> Me gustaria asumir roles como Diseñador o Artista</p>
 
+< Ximena-Prieto
+
+
+
 <h1>Juan Rodríguez</h1>
 
 <img src="Juan Rodriguez/fotoJuan.jpg" width="200"/>
@@ -56,3 +60,4 @@ Hola a todos, me llamo Ximena, trabajo en una empresa de tecnologia e innovació
       Bogotá, colombia.
     <br>Mi plato favorito es la hazaña.
 </p>
+main
