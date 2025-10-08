@@ -34,7 +34,6 @@ UserSettings/
 *.mov
 *.ogg
 *.avi
-*.asset
 *.cubemap
 *.prefab
 *.mat
